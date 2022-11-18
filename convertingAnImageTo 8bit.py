@@ -2,7 +2,7 @@ import cv2
 
 # Input image
 
-input = cv2.imread('C:\\Users\\islam1999\\Desktop\\image folder\\forest.jpg')
+input = cv2.imread('forest.jpg')
 
 # Get input size
 
